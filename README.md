@@ -1,4 +1,4 @@
-# GoomaralErh
+# Goomarald
 <!doctype html>
 <html lang="mn">
 <head>
@@ -86,12 +86,12 @@
 
         <div class="inputs" style="margin-top:10px">
           <div class="col">
-            <label>Надад бас бичээрэй (Би ч бас 2027.10.17 нд унших болно.)</label>
-            <textarea id="guestMessage" rows="3" placeholder=Надад заавал бичээрэй"></textarea>
+            <label> Надад бас бичээрэй (Би ч бас 2026.10.17 нд унших болно.) </label>
+            <textarea id="guestMessage" rows="3" placeholder= "Надад заавал бичээрэй" ></textarea>
           </div>
 
           <div style="width:220px">
-            <label>Зураг оруулах (хамгийн их 5)</label>
+            <label>Өөрийнхөө зургаа оруулаарай (хамгийн их 5)</label>
             <input id="imageInput" type="file" accept="image/*" multiple>
             <div class="small">Upload-с зургуудаа оруулна уу. (Тодруулга: Чи үнэхээр хөөрхөн байна )</div>
           </div>
